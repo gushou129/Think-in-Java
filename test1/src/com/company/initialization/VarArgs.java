@@ -1,7 +1,7 @@
-//: initialization/VarArgs.java
+//: com.company.initialization/VarArgs.java
 // Using array syntax to create variable argument lists.
 
-package initialization;
+package com.company.initialization;
 
 class A{}
 
@@ -22,5 +22,5 @@ public class VarArgs {
 }   /* Output: (Sample)
 47 3.14.11.11
 one two three
-initialization.A@2f4d3709 initialization.A@4e50df2e initialization.A@1d81eb93
+com.company.initialization.A@2f4d3709 com.company.initialization.A@4e50df2e com.company.initialization.A@1d81eb93
 *///:~

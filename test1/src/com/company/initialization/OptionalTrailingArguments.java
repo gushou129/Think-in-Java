@@ -1,6 +1,6 @@
-//: initialization/VarargType.java
+//: com.company.initialization/VarargType.java
 
-package initialization;
+package com.company.initialization;
 
 public class OptionalTrailingArguments {
     static void f (int required, String... trailing){

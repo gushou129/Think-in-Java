@@ -1,8 +1,6 @@
-//: initialization/VarargType.java
+//: com.company.initialization/VarargType.java
 
-package initialization;
-
-import java.util.Arrays;
+package com.company.initialization;
 
 public class VarargType {
     static void f (Character... args){

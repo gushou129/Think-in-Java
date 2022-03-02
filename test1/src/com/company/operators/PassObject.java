@@ -1,7 +1,7 @@
-///: operators/PassObject.java
+///: com.company.operators/PassObject.java
 // Passing objects to methods may not be
 // what you're used to
-package operators;
+package com.company.operators;
 class Letter {
     char c;
 }

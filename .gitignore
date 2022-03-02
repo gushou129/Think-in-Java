@@ -1,0 +1,10 @@
+# dir needn't to commit dir
+/test1/.idea
+/test1/out
+
+# file neednt' to commit file
+/test1/java.iml
+
+# Package files
+*.jar
+*.class

@@ -1,4 +1,4 @@
-package obj;
+package com.company.obj;
 
 public class O4 {
     public static void main() {

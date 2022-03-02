@@ -1,6 +1,6 @@
-//: operators/Dog.java
+//: com.company.operators/Dog.java
 // test5
-package operators;
+package com.company.operators;
 
 class Dog {
     String name;

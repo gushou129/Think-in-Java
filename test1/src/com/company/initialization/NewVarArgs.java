@@ -1,7 +1,7 @@
-//: initialization/NewVarArgs.java
+//: com.company.initialization/NewVarArgs.java
 // Using array syntax to create variable argument lists.
 
-package initialization;
+package com.company.initialization;
 
 public class NewVarArgs {
     static void printArray(Object... args){
@@ -22,6 +22,6 @@ public class NewVarArgs {
 }   /* Output: (75% match)
 47 3.14 11.11
 47 3 14.0 11 11
-initialization.A@b4c966a initialization.A@2f4d3709 initialization.A@4e50df2e
+com.company.initialization.A@b4c966a com.company.initialization.A@2f4d3709 com.company.initialization.A@4e50df2e
 1 2 3 4
 *///:~

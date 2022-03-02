@@ -1,4 +1,4 @@
-package obj;
+package com.company.obj;
 
 public class O2 {
     private int i;

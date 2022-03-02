@@ -1,6 +1,6 @@
-//: operators/MyFloat.java
+//: com.company.operators/MyFloat.java
 // Assignment with objects is a bit tricky.
-package operators;
+package com.company.operators;
 class F{
     float f;
 }
@@ -36,16 +36,16 @@ public class MyFloat {
 }   /* Output: (70% match)
 mf1.f = 10.4
 mf2.f = 0.1
-mf1 = operators.F@16b98e56
-mf2 = operators.F@7ef20235
+mf1 = com.company.operators.F@16b98e56
+mf2 = com.company.operators.F@7ef20235
 
 mf1.f = 0.1
 mf2.f = 0.1
-mf1 = operators.F@16b98e56
-mf2 = operators.F@7ef20235
+mf1 = com.company.operators.F@16b98e56
+mf2 = com.company.operators.F@7ef20235
 
 mf1.f = 0.1
 mf2.f = 0.1
-mf1 = operators.F@7ef20235
-mf2 = operators.F@7ef20235
+mf1 = com.company.operators.F@7ef20235
+mf2 = com.company.operators.F@7ef20235
 *///:~
