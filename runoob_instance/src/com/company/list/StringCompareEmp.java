@@ -6,6 +6,7 @@ public class StringCompareEmp {
         String anotherString = "hello world";
         Object objStr = str;
 
+        // compareTo
         System.out.println(str.compareTo(anotherString));
         System.out.println(str.compareToIgnoreCase(anotherString));
         System.out.println(str.compareTo(objStr.toString()));
